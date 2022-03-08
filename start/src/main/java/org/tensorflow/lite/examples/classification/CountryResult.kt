@@ -106,7 +106,7 @@ class CountryResult : AppCompatActivity(), OnMapReadyCallback {
         codeIso2.setText(countryResponse.Results.CountryCodes.iso2)
         telPrefix.setText(countryResponse.Results.TelPref)
         rectangle.setText(countryResponse.Results.GeoRectangle.West.toString() + " "
-                + countryResponse.Results.GeoRectangle.North.toString() + " +"
+                + countryResponse.Results.GeoRectangle.North.toString() + " "
                 + countryResponse.Results.GeoRectangle.East.toString() + " "
                 + countryResponse.Results.GeoRectangle.South.toString())
         center.setText(countryResponse.Results.GeoPt[0].toString() + " "
