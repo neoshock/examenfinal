@@ -1,4 +1,4 @@
-#EXAMEN FINAL PRÁCTICO
+# EXAMEN FINAL PRÁCTICO
 ## Country Info App
 ## Alumno: Alcivar Delgado Lino Josue
 
@@ -7,6 +7,13 @@
 2.- Unavez identificado el país, mostrar la información, usando los Servicios Web: http://www.geognos.com/api/en/countries/info/{alpha2code}.json y http://www.geognos.com/api/en/countries/flag/{alpha2code}.png
 
 ## Resultados
+
+<img src="https://i.imgur.com/2V6nQe2.jpg" width="400" height="790">
+<img src="https://i.imgur.com/UkQ64J1.jpg" width="400" height="790">
+<img src="https://i.imgur.com/xw9Vo4Q.jpg" width="400" height="790">
+<img src="https://i.imgur.com/FyLlPlp.jpg" width="400" height="790">
+<img src="https://i.imgur.com/KQrUWtE.jpg" width="400" height="790">
+<img src="https://i.imgur.com/8SCmDzC.jpg" width="400" height="790">
 
 
 ## Support
